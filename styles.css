@@ -33,7 +33,7 @@ body {
 }
 
 .cta-button {
-    background-color: #ff9800;
+    background-color: #6a0dad;
     color: white;
     padding: 15px 30px;
     text-decoration: none;
@@ -42,14 +42,14 @@ body {
 }
 
 .cta-button:hover {
-    background-color: #e68900;
+    background-color: white;
 }
 
 /* About Section */
 .about {
     background-color: #fff;
     padding: 60px 20px;
-    color: #333;
+    color: #6a0dad;
     display: flex;
     align-items: center;
 }
