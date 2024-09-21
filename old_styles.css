@@ -50,22 +50,12 @@ body {
     background-color: #fff;
     padding: 60px 20px;
     color: #333;
-    display: flex;
-    align-items: center;
 }
 
-.text-content {
-    flex: 1;
-}
-
-.image-content {
-    flex: 1;
-    text-align: center;
-}
-
-.image-content img {
-    max-width: 100%;
-    border-radius: 10px;
+.about h2 {
+    color: #6a0dad;
+    font-size: 2em;
+    margin-bottom: 20px;
 }
 
 /* Features Section */
@@ -80,51 +70,14 @@ body {
     margin-bottom: 20px;
 }
 
-.feature-list {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.feature-list ul {
+.features ul {
     list-style: none;
     padding: 0;
-    flex: 1;
 }
 
-.feature-list li {
+.features li {
     font-size: 1.1em;
     margin-bottom: 15px;
-}
-
-.screenshot-content {
-    flex: 1;
-    text-align: center;
-}
-
-.screenshot-content img {
-    max-width: 80%;
-    margin: 10px 0;
-    border-radius: 10px;
-}
-
-/* Parent-Child Experience Section */
-.parent-child {
-    background-color: #fff;
-    padding: 60px 20px;
-    text-align: center;
-}
-
-.parent-child h2 {
-    color: #6a0dad;
-    font-size: 2em;
-    margin-bottom: 20px;
-}
-
-.parent-child img {
-    max-width: 100%;
-    border-radius: 10px;
-    margin-top: 20px;
 }
 
 /* Call to Action Section */
